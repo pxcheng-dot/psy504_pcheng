@@ -1,0 +1,15 @@
+{
+  "hash": "049205b8857d6cb828208fc754694d54",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"stats post\"\nauthor: \"Phillip Cheng\"\ndate: \"2025-02-05\"\ncategories: [news, analysis]\nimage: \"1.jpeg\"\n---\n\n\nThis is a post with executable code.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n2-0\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

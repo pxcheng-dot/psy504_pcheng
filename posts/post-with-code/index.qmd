@@ -1,0 +1,13 @@
+---
+title: "stats post"
+author: "Phillip Cheng"
+date: "2025-02-05"
+categories: [news, analysis]
+image: "1.jpeg"
+---
+
+This is a post with executable code.
+
+```{r}
+2-0
+```
